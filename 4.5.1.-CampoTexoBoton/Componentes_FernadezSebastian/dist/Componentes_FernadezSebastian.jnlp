@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Componentes_FernadezSebastian.jnlp">
+  <information>
+    <title>Componentes_FernadezSebastian</title>
+    <vendor>UsuarioDAM</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Componentes_FernadezSebastian.jar" size="9622" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="campoTextoBoton.Componentes_FernadezSebastian"  name="Componentes_FernadezSebastian" />
+  <update check="always"/>
+</jnlp>
